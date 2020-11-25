@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click</string>
+    <string name="zero_value">0</string>
+    <string name="plus_value">+</string>
+    <string name="minus_value">-</string>
+    <string name="reset_value">Reset</string>
+</resources>
